@@ -8,12 +8,10 @@
 
 facebook:
   name: "Facebook"
-  baseURL: "https://www.facebook.com/nahiyaa"
+  baseURL: "https://www.facebook.com/"
   icon: "fa-facebook"
 
 email:
   name: "Email me"
   baseURL: "mailto:nahiyabee@gmail.com"
   icon: "fa-envelope"
-
-
