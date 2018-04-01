@@ -19,9 +19,9 @@ His MamBap told to do so
 (His old Bap and weaving Mam)  
 “*Shadi ke baad me nahee ayega*”  
 After my marriage I won’t come  
-(His fair angel bride and small cherubs on coming years
-On the banks of flood)
-No no no Aslam, don’t come shadi ke baad  
+(His fair angel bride and small cherubs on coming years  
+On the banks of flood)  
+No no no Aslam, don’t come shadi ke baad   
 For my three and half riyals  
 No money, you are my “*Sishter*”  
 The cord of love  
