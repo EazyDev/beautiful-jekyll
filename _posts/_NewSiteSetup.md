@@ -1,5 +1,7 @@
 ---
+layout: post
 published: false
+title: 1-4-17-FirstPost.md
 ---
 ## Hi to the old followers, and Hello to the new Ones
 
