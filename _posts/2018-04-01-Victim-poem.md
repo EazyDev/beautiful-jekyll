@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Victim
+tags: [poem,memory]
 published: true
 ---
 
