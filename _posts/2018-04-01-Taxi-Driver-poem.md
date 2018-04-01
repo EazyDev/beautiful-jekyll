@@ -4,8 +4,6 @@ title: The Taxi Driver
 published: true
 ---
 
-##The Taxi Driver
-
 He sat on the front seat  
 As pleasant as if he is singing a melody  
 In his white and orange car  
