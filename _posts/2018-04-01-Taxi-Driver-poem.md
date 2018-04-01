@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Taxi Driver
-subtitle: A poem that I wrote a long time ago.
 published: true
 ---
 
