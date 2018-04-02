@@ -3,6 +3,7 @@ layout: post
 title: The Victim
 tags: [poem,memory]
 published: true
+comments: true
 ---
 
 Clouds hanging   
