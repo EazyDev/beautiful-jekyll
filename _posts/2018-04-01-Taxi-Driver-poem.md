@@ -3,6 +3,7 @@ layout: post
 title: The Taxi Driver
 tags: [poem,memory]
 published: true
+comments: true
 ---
 
 He sat on the front seat  
